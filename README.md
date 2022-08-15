@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Geru97
-- 👀 I’m interested in web design and programming 
-- 🌱 I’m currently learning java and javascript
+- 👀 I’m interested in web design and programming
 - 💞️ Open to work on trainee or jr. positions
 - 📫 How to reach me ... mail me to ruiz.gerardo.r@gmail.com
 
